@@ -34,6 +34,9 @@ TypoScript Reference
 		}
 		settings {
 			debug = 0
+			
+			allowedLanguages = *
+			
 			cutUsernameOnChar = 9
 			cutBreadcrumbOnChar = 40
 			popularTopicTimeDiff = 604800
