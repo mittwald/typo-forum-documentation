@@ -21,3 +21,4 @@ Users Manual
    CreateNewTopicsandPosts/Index
    EditingPosts/Index
    PrivateMessagingSystem/Index
+   MigrationfromMm_forum/Index
